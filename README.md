@@ -1,19 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fumito%20Kumagai&fontSize=50&fontColor=fff&animation=twinkling" width="100%" />
+### 🚀 Builder / Investor
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Solo+Builder+%26+Investor;5%2C600%2B+Contributions+in+9+Months;Building+with+Gemini+Embedding+%26+MCP" alt="Typing SVG" />
-</p>
-
-### Hi there 👋
-
-- 🚀 **Builder / Investor**
 - 🌱 **Journey**: Started software development in **Jan 2026** (Self-taught / 0→1 Solo Builder)
 - 🏆 **Track Record**: **5,600+ Contributions in 9 months** (~10k/year pace / Top 0.05% Worldwide)
 - ⚡ **Architecture**: Proprietary DB × Multi-API Integration × Gemini Embedding × MCP (Model Context Protocol)
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Architecture
+
+<!-- メイン技術アイコン（ネオン風） -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,gcp,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,py,nextjs,react,nodejs,postgres,supabase,docker,git" />
+</p>
+
+<!-- AI & 特化技術バッジ（あなたの強み） -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Extraction-Apify%20Custom%20Actors-00A65A?style=for-the-badge&logo=apify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Supabase%20%26%20Vector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### 📊 GitHub Activity
