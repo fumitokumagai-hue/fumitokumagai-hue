@@ -24,5 +24,5 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fumitokumagai-hue&theme=radical&timezone=Asia/Tokyo" alt="GitHub Streak" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=fumitokumagai-hue&theme=radical&timezone=Asia/Tokyo" alt="GitHub Streak" width="90%" />
 </p>
